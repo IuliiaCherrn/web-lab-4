@@ -1,0 +1,16 @@
+{
+    "name": "root/src",
+    "autoload": {
+        "psr-4": {
+            "Root\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deekep"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.13"
+    }
+}
